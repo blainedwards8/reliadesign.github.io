@@ -139,6 +139,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-aw fa-linkedin"
+      url: "https://www.linkedin.com/in/blainedwards8/"
 
 
 # Reading Files
